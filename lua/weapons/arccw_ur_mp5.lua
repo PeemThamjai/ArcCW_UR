@@ -39,7 +39,7 @@ If accurate, sophisticated close-combat performance is what you're looking for, 
 SWEP.Trivia_Manufacturer = "Crowdley & Nelson"
 SWEP.Trivia_Calibre = "9x19mm Parabellum"
 SWEP.Trivia_Mechanism = "Roller-Delayed Blowback"
-SWEP.Trivia_Country = "Germany"
+SWEP.Trivia_Country = "West Germany"
 SWEP.Trivia_Year = 1966
 
 -- Weapon slot --
