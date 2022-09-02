@@ -39,7 +39,7 @@ Weak offensive potential with a quick draw. Its main use is as an emergency back
 SWEP.Trivia_Manufacturer = "Sikov Machining Plant"
 SWEP.Trivia_Calibre = "9x18mm Makarov"
 SWEP.Trivia_Mechanism = "Blowback"
-SWEP.Trivia_Country = "Russia"
+SWEP.Trivia_Country = "Soviet Union"
 SWEP.Trivia_Year = 1951
 
 -- Weapon slot --
