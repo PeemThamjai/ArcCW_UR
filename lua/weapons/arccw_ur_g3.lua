@@ -14,7 +14,7 @@ Well known for its excellent accuracy and range, but its powerful cartridge make
 SWEP.Trivia_Manufacturer = "Crowdley & Nelson"
 SWEP.Trivia_Calibre = "7.62x51mm NATO"
 SWEP.Trivia_Mechanism = "Roller-Delayed Blowback"
-SWEP.Trivia_Country = "Germany"
+SWEP.Trivia_Country = "West Germany"
 SWEP.Trivia_Year = 1958
 
 if GetConVar("arccw_truenames"):GetBool() then
